@@ -1,0 +1,49 @@
+*{
+    padding: 0px;
+    margin: 0px;
+
+}
+
+nav.navbar{
+    display: flex;
+    width: 100%;
+
+}
+ul.navlist{
+    width: 55%;
+display: flex;
+list-style: none;
+justify-content: center;
+align-items: center;
+
+}
+.navlist li{
+    padding: 8px;
+
+}
+.navlist li a {
+    padding: 14px;
+    text-decoration: none;
+}
+
+div.signupbtn{
+
+}
+button.login{
+
+}
+div.searchbar{
+
+}
+.searchbar input{
+
+}
+div.logo{width: 12%;
+
+}
+div.logoimg{
+
+}
+.logoimg img{
+
+}
